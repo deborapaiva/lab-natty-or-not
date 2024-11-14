@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Titulo
+A Jornada do BackEnzo: Construindo Sua Primeira Aplicação Web com Spring Boot
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast que conta a história de Juninho, o "BackEnzo", um desenvolvedor júnior que enfrenta o desafio de criar uma aplicação de cadastro e consulta de vagas de emprego usando Spring Boot. Este episódio é voltado para iniciantes e explora de maneira leve e didática as etapas de construção de uma aplicação web, passando por conceitos de Controllers, Services, Repositories, e Servlets.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para criação de roteiro de podcast e estruturação de tópicos de desenvolvimento
+Biblioteca de áudio do YouTube para escolha de efeitos sonoros de realização e transições
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a criação do conteúdo, primeiro identifiquei os principais conceitos que seriam abordados, como a estruturação das camadas de uma aplicação web e os fundamentos do Spring Boot para iniciantes. Em seguida, estruturei o roteiro em um formato narrativo para facilitar o entendimento, incluindo explicações sobre cada etapa de maneira prática. O tom foi pensado para ser leve e didático, como uma conversa entre amigos. Após o roteiro, pesquisei sons de realização e transições na biblioteca de áudio do YouTube para inserir momentos que marquem o progresso do "BackEnzo" na sua jornada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um podcast descontraído e instrutivo, que ensina o básico sobre desenvolvimento backend e estrutura de uma aplicação web em Spring Boot. A narrativa de um desenvolvedor júnior traz uma proximidade ao público iniciante, incentivando-o a seguir aprendendo com exemplos práticos e reforçando a importância de uma estrutura bem definida no desenvolvimento de software.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Um dos desafios foi manter a simplicidade no conteúdo sem perder a profundidade nos conceitos, para que o projeto parecesse "natty," ou seja, algo natural e acessível para qualquer pessoa, sem parecer técnico demais ou dependente de ferramentas complexas. Adaptar a linguagem para que a IA soasse como um colega iniciante orientando outros, por meio de uma didática simples e prática, foi fundamental para garantir que o conteúdo fosse útil e engajador.
 ```
 
 ### Exemplos e Insigths
